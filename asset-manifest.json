@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vacation0706/tic-tac-toe/static/css/main.74acce42.css",
-    "main.js": "/vacation0706/tic-tac-toe/static/js/main.171c1cf8.js",
-    "index.html": "/vacation0706/tic-tac-toe/index.html",
-    "main.74acce42.css.map": "/vacation0706/tic-tac-toe/static/css/main.74acce42.css.map",
-    "main.171c1cf8.js.map": "/vacation0706/tic-tac-toe/static/js/main.171c1cf8.js.map"
+    "main.css": "./static/css/main.74acce42.css",
+    "main.js": "./static/js/main.171c1cf8.js",
+    "index.html": "./index.html",
+    "main.74acce42.css.map": "./static/css/main.74acce42.css.map",
+    "main.171c1cf8.js.map": "./static/js/main.171c1cf8.js.map"
   },
   "entrypoints": [
     "static/css/main.74acce42.css",
